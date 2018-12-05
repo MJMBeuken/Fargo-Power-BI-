@@ -1,0 +1,116 @@
+ProductID;Productnaam;Kleur;Grootte;Prijs;Productklasse
+101151;Descent;steel satin;15;€ 2939.85;Bicycle-Competition
+101152;Descent;steel yellow;15;€ 2939.85;Bicycle-Competition
+101171;Descent;steel satin;17;€ 2939.85;Bicycle-Competition
+101172;Descent;steel yellow;17;€ 2939.85;Bicycle-Competition
+101181;Descent;steel satin;18.5;€ 2939.85;Bicycle-Competition
+101182;Descent;steel yellow;18.5;€ 2939.85;Bicycle-Competition
+101201;Descent;steel satin;20;€ 2939.85;Bicycle-Competition
+101202;Descent;steel yellow;20;€ 2939.85;Bicycle-Competition
+101221;Descent;steel satin;22;€ 2939.85;Bicycle-Competition
+101222;Descent;steel yellow;22;€ 2939.85;Bicycle-Competition
+102151;Mozzie;jewel green;15;€ 1739.85;Bicycle-Competition
+102171;Mozzie;jewel green;17;€ 1739.85;Bicycle-Competition
+102181;Mozzie;jewel green;18.5;€ 1739.85;Bicycle-Competition
+102201;Mozzie;jewel green;20;€ 1739.85;Bicycle-Competition
+102221;Mozzie;jewel green;22;€ 1739.85;Bicycle-Competition
+103151;Endorphin;deep burgundy;15;€ 899.85;Bicycle-Competition
+103171;Endorphin;deep burgundy;17;€ 899.85;Bicycle-Competition
+103181;Endorphin;deep burgundy;18.5;€ 899.85;Bicycle-Competition
+103201;Endorphin;deep burgundy;20;€ 899.85;Bicycle-Competition
+103221;Endorphin;deep burgundy;22;€ 899.85;Bicycle-Competition
+201161;Romeo;radiant steel;16;€ 832.35;Bicycle-Hybrid
+201181;Romeo;radiant steel;18;€ 832.35;Bicycle-Hybrid
+201201;Romeo;radiant steel;20;€ 832.35;Bicycle-Hybrid
+201221;Romeo;radiant steel;22;€ 832.35;Bicycle-Hybrid
+202161;Wheeler;deep burgundy;16;€ 539.85;Bicycle-Hybrid
+202181;Wheeler;deep burgundy;18;€ 539.85;Bicycle-Hybrid
+202201;Wheeler;deep burgundy;20;€ 539.85;Bicycle-Hybrid
+202221;Wheeler;deep burgundy;22;€ 539.85;Bicycle-Hybrid
+301151;SlickRock;champagne ;15;€ 764.85;Bicycle-Mountain
+301161;SlickRock;champagne ;16;€ 764.85;Bicycle-Mountain
+301181;SlickRock;champagne ;18;€ 764.85;Bicycle-Mountain
+301201;SlickRock;champagne ;20;€ 764.85;Bicycle-Mountain
+301221;SlickRock;champagne ;22;€ 764.85;Bicycle-Mountain
+302161;Rapel;forest green;16;€ 479.85;Bicycle-Mountain
+302162;Rapel;satin silver;16;€ 479.85;Bicycle-Mountain
+302181;Rapel;forest green;18;€ 479.85;Bicycle-Mountain
+302182;Rapel;satin silver;18;€ 479.85;Bicycle-Mountain
+302201;Rapel;forest green;20;€ 479.85;Bicycle-Mountain
+302202;Rapel;satin silver;20;€ 479.85;Bicycle-Mountain
+302221;Rapel;forest green;22;€ 479.85;Bicycle-Mountain
+302222;Rapel;satin silver;22;€ 479.85;Bicycle-Mountain
+303151;Nicros;red;15;€ 329.85;Bicycle-Mountain
+303152;Nicros;blue;15;€ 329.85;Bicycle-Mountain
+303161;Nicros;red;16;€ 329.85;Bicycle-Mountain
+303162;Nicros;blue;16;€ 329.85;Bicycle-Mountain
+303181;Nicros;red;18;€ 329.85;Bicycle-Mountain
+303182;Nicros;blue;18;€ 329.85;Bicycle-Mountain
+303201;Nicros;red;20;€ 329.85;Bicycle-Mountain
+303202;Nicros;blue;20;€ 329.85;Bicycle-Mountain
+303221;Nicros;red;22;€ 329.85;Bicycle-Mountain
+303222;Nicros;blue;22;€ 329.85;Bicycle-Mountain
+401001;Mini Nicros;blue;24;€ 281.85;Bicycle-Kids
+401002;Mini Nicros;purple;24;€ 281.85;Bicycle-Kids
+402001;Micro Nicros;red;20;€ 274.35;Bicycle-Kids
+402002;Micro Nicros;purple;20;€ 274.35;Bicycle-Kids
+1101;Active Outdoors Crochet Glove;NULL;xsm;€ 14.50;Accessory-Gloves
+1102;Active Outdoors Crochet Glove;NULL;sm;€ 14.50;Accessory-Gloves
+1103;Active Outdoors Crochet Glove;NULL;med;€ 14.50;Accessory-Gloves
+1104;Active Outdoors Crochet Glove;NULL;lrg;€ 14.50;Accessory-Gloves
+1105;Active Outdoors Crochet Glove;NULL;xlrg;€ 14.50;Accessory-Gloves
+1106;Active Outdoors Lycra Glove;NULL;xxsm;€ 16.50;Accessory-Gloves
+1107;Active Outdoors Lycra Glove;NULL;xsm;€ 16.50;Accessory-Gloves
+1108;Active Outdoors Lycra Glove;NULL;sm;€ 16.50;Accessory-Gloves
+1109;Active Outdoors Lycra Glove;NULL;med;€ 16.50;Accessory-Gloves
+1110;Active Outdoors Lycra Glove;NULL;lrg;€ 16.50;Accessory-Gloves
+1111;Active Outdoors Lycra Glove;NULL;xlrg;€ 16.50;Accessory-Gloves
+4101;InFlux Crochet Glove;NULL;sm;€ 13.50;Accessory-Gloves
+4102;InFlux Crochet Glove;NULL;med;€ 13.50;Accessory-Gloves
+4103;InFlux Crochet Glove;NULL;lrg;€ 13.50;Accessory-Gloves
+4104;InFlux Lycra Glove;NULL;sm;€ 15.50;Accessory-Gloves
+4105;InFlux Lycra Glove;NULL;med;€ 15.50;Accessory-Gloves
+4106;InFlux Lycra Glove;NULL;lrg;€ 15.50;Accessory-Gloves
+5201;Xtreme Adult Helmet;white;sm/med;€ 33.90;Accessory-Helmets
+5202;Xtreme Adult Helmet;green;sm/med;€ 33.90;Accessory-Helmets
+5203;Xtreme Adult Helmet;red;sm/med;€ 33.90;Accessory-Helmets
+5204;Xtreme Adult Helmet;white;med/lrg;€ 33.90;Accessory-Helmets
+5205;Xtreme Adult Helmet;green;med/lrg;€ 33.90;Accessory-Helmets
+5206;Xtreme Adult Helmet;red;med/lrg;€ 33.90;Accessory-Helmets
+5207;Xtreme Youth Helmet;black;NULL;€ 33.90;Accessory-Helmets
+5208;Xtreme Youth Helmet;red;NULL;€ 33.90;Accessory-Helmets
+2201;Triumph Pro Helmet;black;sm;€ 41.90;Accessory-Helmets
+2202;Triumph Pro Helmet;white;sm;€ 41.90;Accessory-Helmets
+2203;Triumph Pro Helmet;black;med;€ 41.90;Accessory-Helmets
+2204;Triumph Pro Helmet;white;med;€ 41.90;Accessory-Helmets
+2205;Triumph Pro Helmet;black;lrg;€ 41.90;Accessory-Helmets
+2206;Triumph Pro Helmet;white;lrg;€ 41.90;Accessory-Helmets
+2207;Triumph Vertigo Helmet;black;sm;€ 53.90;Accessory-Helmets
+2208;Triumph Vertigo Helmet;red;sm;€ 53.90;Accessory-Helmets
+2209;Triumph Vertigo Helmet;white;sm;€ 53.90;Accessory-Helmets
+2210;Triumph Vertigo Helmet;black;med;€ 53.90;Accessory-Helmets
+2211;Triumph Vertigo Helmet;red;med;€ 53.90;Accessory-Helmets
+2212;Triumph Vertigo Helmet;white;med;€ 53.90;Accessory-Helmets
+2213;Triumph Vertigo Helmet;black;lrg;€ 53.90;Accessory-Helmets
+2214;Triumph Vertigo Helmet;red;lrg;€ 53.90;Accessory-Helmets
+2215;Triumph Vertigo Helmet;white;lrg;€ 53.90;Accessory-Helmets
+3301;Guardian Chain Lock;NULL;NULL;€ 4.50;Accessory-Locks
+3302;"Guardian ""U"" Lock";NULL;NULL;€ 17.50;Accessory-Locks
+3303;"Guardian XL ""U"" Lock";NULL;NULL;€ 19.90;Accessory-Locks
+3304;Guardian ATB Lock;NULL;NULL;€ 21.90;Accessory-Locks
+3305;Guardian Mini Lock;NULL;NULL;€ 21.90;Accessory-Locks
+5301;Xtreme Mtn Lock;NULL;NULL;€ 11.90;Accessory-Locks
+5302;Xtreme Rhino Lock;NULL;NULL;€ 9.98;Accessory-Locks
+5303;Xtreme Titan Lock;NULL;NULL;€ 37.90;Accessory-Locks
+5401;Xtreme Anatomic Mens Saddle;NULL;NULL;€ 14.50;Accessory-Saddles
+5402;Xtreme Anatomic Ladies Saddle;NULL;NULL;€ 14.50;Accessory-Saddles
+5403;Xtreme Wide MTB Saddle;NULL;NULL;€ 14.50;Accessory-Saddles
+5404;Xtreme Gellite Mens Saddle;NULL;NULL;€ 23.50;Accessory-Saddles
+5405;Xtreme Gellite  Ladies Saddle;NULL;NULL;€ 23.50;Accessory-Saddles
+6401;Roadster Jr BMX Saddle;NULL;NULL;€ 12.00;Accessory-Saddles
+6402;Roadster Micro Mtn Saddle;NULL;NULL;€ 9.00;Accessory-Saddles
+6403;Roadster Mini Mtn Saddle;NULL;NULL;€ 15.00;Accessory-Saddles
+7401;Vesper Comfort ATB Saddle;NULL;NULL;€ 23.50;Accessory-Saddles
+7402;Vesper Comfort Ladies Saddle;NULL;NULL;€ 23.50;Accessory-Saddles
+7403;Vesper Gelflex ATB Saddle;NULL;NULL;€ 36.00;Accessory-Saddles
+7404;Vesper Gelflex Ladies Saddle;NULL;NULL;€ 36.00;Accessory-Saddles

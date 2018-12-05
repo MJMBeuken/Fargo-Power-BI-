@@ -1,0 +1,271 @@
+KlantID;NaamKlant;Contactpersoon;TitelContactpersoon;FunctieContactpersoon;Plaats;Land
+1;City Cyclists;Chris Christianson;Mr.;Sales Manager;Sterling Heights;USA
+2;Pathfinders;Christine Manley;Miss;Sales Representative;DeKalb;USA
+3;Bike-A-Holics Anonymous;Gary Jannis;Mr.;Sales Associate;Blacklick;USA
+4;Psycho-Cycle;Alexander Mast;Mr.;Sales Representative;Huntsville;USA
+5;Sporting Wheels Inc.;Patrick Reyess;Mr.;Sales Associate;San Diego;USA
+6;Rockshocks for Jocks;Heather Davis;Ms.;Sales Representative;Austin;USA
+7;Poser Cycles;Alex Smith;Mr.;Sales Agent;Eden Prairie;USA
+8;Spokes 'N Wheels Ltd.;Kristina Chester;Miss;Sales Representative;Des Moines;USA
+9;Trail Blazer's Place;Alexandra Burris;Mrs.;Owner;Madison;USA
+10;Rowdy Rims Company;Anthony Shoemaker;Dr.;Sales Agent;Newbury Park;USA
+11;Clean Air Transportation Co.;Bill Carter;Mr.;Sales Associate;Conshohocken;USA
+12;Hooked on Helmets;Gerry Wade;Mr.;Owner;Eden Prairie;USA
+13;C-Gate Cycle Shoppe;Matthew Banks;Mr.;Owner;Winchester;USA
+14;Alley Cat Cycles;Rick Pratt;Mr.;Owner;Concord;USA
+15;The Bike Cellar;Christopher Carmine;Mr.;Sales Manager;Winchester;USA
+16;Hercules Mountain Bikes;James Sergent;Mr.;Sales Manager;DeKalb;USA
+17;Whistler Rentals;Will Castillo;Mr.;Owner;Tualatin;USA
+18;Bikes and Trikes;Ian Kelly;Mr.;Owner;Sterling Heights;USA
+19;Changing Gears;David Baker;Mr.;Sales Agent;Irvine;USA
+20;Wheels and Stuff;Dan Simpson;Mr.;Sales Agent;Clearwater;USA
+21;Uni-Cycle;Daryl Davidson;Mr.;Sales Manager;Blacklick;USA
+22;Crank Components;Lori McIsaac;Miss;Sales Representative;Champaign;USA
+23;Corporate Cycle;Annie Harper;Mrs.;Sales Representative;Des Moines;USA
+24;Pedal Pusher Bikes Inc.;Tony Garneau;Mr.;Sales Associate;Port Coquitlam;Canada
+25;Extreme Cycling;Zach Fabro;Mr.;Sales Manager;Clearwater;USA
+26;Blazing Saddles;Trisha Sanders;Ms.;Sales Manager;Brown Deer;USA
+27;The Great Bike Shop;Jon Witt;Mr.;Owner;Huntsville;USA
+28;Pedals Inc.;Patricia Manon;Miss;Sales Manager;Madison;USA
+29;Blazing Bikes;Gary Campbell;Mr.;Sales Associate;Eden Prairie;USA
+30;Spokes for Folks;Brent Lansing;Mr.;Owner;Hightstown;USA
+31;To The Limit Biking Co.;Richard Grewal;Mr.;Sales Agent;Nampa;USA
+32;Spokes;Sheryl Rodgers;Mrs.;Sales Associate;DeKalb;USA
+33;Fulcrum Cycles;Markus Holt;Dr.;Sales Manager;Winchester;USA
+34;Off the Mountain Biking;Laurie Lee-Johnson;Ms.;Sales Manager;Irvine;USA
+35;Mad Mountain Bikes;Tracy Hanna;Miss;Sales Representative;Nampa;USA
+36;Road Runners Paradise;Julia Jackson;Mrs.;Sales Representative;Kingston;USA
+37;Has Been Bikes (consignment);Jane Fasan;Ms.;Sales Agent;Kingston;USA
+38;Tyred Out;Donald Edwards;Mr.;Owner;Santa Ana;USA
+39;Wheels Inc.;Stacy Bodnar;Mrs.;Sales Representative;Des Moines;USA
+40;Cyclist's Trail Co.;Alexa Quartermaine;Miss;Sales Manager;Sterling Heights;USA
+41;Deals on Wheels;Ron Cunningham;Mr.;Sales Manager;DeKalb;USA
+42;Rad Bikes;Jerry Esler;Mr.;Sales Agent;Tualatin;USA
+43;Insane Cycle;Nadine Scott;Miss;Owner;Conshohocken;USA
+44;Our Wheels Follow Us Everywhere;Robert Walter;Mr.;Sales Manager;DeKalb;USA
+45;Cycles and Sports;Zachary Barbera;Mr.;Owner;Vancouver;Canada
+46;Backpedal Cycle Shop;Joe Lee;Mr.;Owner;Philadelphia;USA
+47;Karma Bikes;Kim Karl;Mr.;Sales Manager;Blacklick;USA
+48;Mountain Madmen Bicycles;Andrew Dong;Mr.;Sales Manager;Hightstown;USA
+49;Rocky Roadsters;Cindy Forester;Ms.;Sales Associate;Conshohocken;USA
+50;Crazy Wheels;Davy Douglas;Mr.;Sales Associate;Port Coquitlam;Canada
+51;Biking's It Industries;Katie Cronin;Mrs.;Sales Representative;Burnaby;Canada
+52;Bikes, Bikes, and More Bikes;Janice Pierson;Miss;Sales Agent;Des Moines;USA
+53;Rough Terrain;Matt Trent;Mr.;Sales Associate;Madison;USA
+54;Cyclopath;Scott Mueller;Mr.;Sales Agent;Kingston;USA
+55;Tandem Cycle;Gordon Bell;Mr.;Sales Agent;Nampa;USA
+56;On The Edge Cyclery;Douglas McDougall;Mr.;Owner;Kingston;USA
+57;Tek Bikes;Elizabeth Kawa;Miss;Sales Agent;Philadelphia;USA
+58;Making Tracks;Rosie Forbes;Mrs.;Sales Associate;Concord;USA
+59;The Biker's Path;Donna Marshall;Miss;Sales Agent;DeKalb;USA
+60;Bikes for Tykes;Dave Elkins;Mr.;Sales Manager;Vancouver;Canada
+61;Benny - The Spokes Person;Caitlin Jones;Miss;Sales Agent;Huntsville;USA
+62;Bike Shop from Mars;John MacCloud;Mr.;Sales Manager;Newbury Park;USA
+63;Feel Great Bikes Inc.;Craig Jacobson;Mr.;Sales Representative;Eden Prairie;USA
+64;SAB Mountain;Claus Main;Mr.;Owner;Bern;Switzerland
+65;Platou Sport;Jonas Bergulfsen;Mr.;Owner;Stavanger;Norway
+66;Piccolo;Georg Pipps;Mr.;Sales Manager;Salzburg;Austria
+67;Paris Mountain Sports;Marie Bertrand;Mrs.;Owner;Paris;France
+68;Magazzini;Giovanni Rovelli;Mr.;Sales Manager;Bergamo;Italy
+69;Furia;Lino Rodriguez;Mr.;Sales Manager;Lisbon;Portugal
+70;Folk och fä HB;Marie Larsson;Mrs.;Owner;Bräcke;Sweden
+71;BBS Pty;Victoria Ashworth;Miss;Sales Representative;London;England
+72;Cycle City Rome;Paolo Accorti;Mr.;Sales Representative;Torino;Italy
+73;Tienda de Bicicletas El Pardo;Alejandra Camino;Ms.;Sales Manager;Madrid;Spain
+74;Fahrkraft Räder;Sven Hoffman;Mr.;Sales Representative;Bonn;Germany
+75;Belgium Bike Co.;Pierre Renault;Mr.;Sales Representative;Brussels;Belgium
+76;Canal City Cycle;Sven Vandervoort;Mr.;Sales Agent;Amsterdam;Netherlands
+77;Warsaw Sports, Inc.;Pavel Ropoleski;Mr.;Owner;Warsaw;Poland
+78;Greenlane Bicycles;Hank Binford;Mr.;Sales Representative;Dublin;Ireland
+79;Helsinki Bicycle;Klaus Fostell;Mr.;Owner;Helsinki;Finland
+80;France Sports;Claude Houle;Mr.;Sales Representative;Cherbourg;France
+81;Centre Sportif Cherbourg;Georges Lasalle;Mr.;Sales Manager;Le Havre;France
+82;Vélos Basse Normandie;Marc Gaucher;Mr.;Owner;Caen;France
+83;Calais Cyclisme;Michelle Laviolette;Mrs.;Owner;Calais;France
+84;Lille VTT;Suzanne LeClair;Ms.;Sales Manager;Lille;France
+85;Bicyclette du Nord;Elise Marchand;Ms.;Owner;Arras;France
+86;Sports 4-Saisons;Manon Pedneault;Ms.;Owner;Dunkerque;France
+87;La Place;Jules Davignion;Mr.;Sales Representative;Rouen;France
+88;Vélos Emile;Emile Laroche;Mr.;Sales Manager;Amiens;France
+89;Centre Sportif Delormier;Réal Delormier;Mr.;Owner;Metz;France
+90;Sports Alsace;Thomas Monpetit;Mr.;Sales Manager;Strasbourg;France
+91;Vélos Ferrier;Veronique Ferrier;Mrs.;Owner;Chartres;France
+92;Sports Fontainebleau;Anne DuPont;Ms.;Owner;Fontainebleau;France
+93;BMX Orléans;Celeste Oulette;Miss;Sales Representative;Orléans;France
+94;Orléans VTT;Christophe Jolicoeur;Mr.;Sales Manager;Troyes;France
+95;Dijon Sud Vélos;Suzette Ganger;Ms.;Sales Manager;Dijon;France
+96;Mulhouse Vélos;Vincent de la Montagne;Mr.;Owner;Mulhouse;France
+97;Bicyclette Bourges Nord;Rejean Lallier;Mr.;Owner;Bourges;France
+98;VTT La Rochelle;Jean Larouche;Mr.;Sales Manager;La Rochelle;France
+99;Bordeaux Sports;Gerard LePage;Mr.;Sales Representative;Bordeaux;France
+100;Arsenault et Maurier;Gaston Arsenault;Mr.;Sales Representative;Clermont-Ferrand;France
+101;Auvergne Bicross;Yolande Lafleur;Ms.;Sales Manager;Vichy;France
+102;Centre Poirot;Julie-Anne Poirot;Mrs.;Owner;Lyon;France
+103;Sports France;Gétan Faucher;Mr.;Owner;Grenoble;France
+104;Sud Cycles;Annette Denault;Ms.;Owner;St. Etienne;France
+105;Toulouse Vélos;Jean-Paul Voltaire;Mr.;Sales Manager;Toulouse;France
+106;Sports Centre-ville;Louise Lacasse;Ms.;Sales Representative;Montpellier;France
+107;Lourdes Sports;Henri De Montigny;Mr.;Sales Manager;Lourdes;France
+108;Gagner Sports;Claude Antoine;Mr.;Sales Representative;Marseille;France
+109;Vélos Bernard;Marie Cloutier;Ms.;Owner;Toulon;France
+110;Sports Beauchamp;Daniel Beauchamp;Mr.;Sales Manager;Cannes;France
+111;Bikefest;Stan Delaware;Mr.;Sales Agent;Little Rock;USA
+112;Biking and Hiking;Ukariah Jonstone;Mr.;Owner;Phoenix;USA
+113;Bicycle Races;Seth Smithers;Mr.;Owner;Tempe;USA
+114;Fred's Bikes;Fred Danforth;Mr.;Owner;Denver;USA
+115;Phil's Bikes;Phil Franklyn;Mr.;Owner;Concord;USA
+116;Colin's Bikes;Colin White;Mr.;Sales Agent;Washington;USA
+117;Barry's Bikes;Barry Wilcox;Mr.;Owner;Dover;USA
+118;Tony's Better Bikes;Anthony Weatherhead;Mr.;Owner;Atlanta;USA
+119;Ride Down A Mountain;Janet Xavier;Ms.;Sales Agent;Kansas City;USA
+120;Bikes R Us;Wil Do;Mr.;Sales Agent;Lexington;USA
+121;Caledonia Cycle;Martin Caledonia;Mr.;Owner;New Orleans;USA
+122;First Gear;Xena Renfrew;Miss;Owner;Baltimore;USA
+123;One Track Mind;Gordy Camel;Mr.;Sales Agent;Bangor;USA
+124;Biking Heaven;Jules Renquist;Ms.;Sales Agent;St. Louis;USA
+125;Family Biking Center;Vlad Spiers;Mr.;Sales Associate;Jackson;USA
+126;World Of Tires;Danielle Rubens;Miss;Owner;Helena;USA
+127;Oympic Bikes;Aaron Zalapski;Mr.;Sales Manager;Raleigh;USA
+128;Bikes, Trikes and Rollerblades;Glenda Donnatelli;Ms.;Owner;Fargo;USA
+129;Tears For Gears;Samuel Quaid;Mr.;Owner;Lincoln;USA
+130;Bombay Bicycle Club;Scott Boswell;Mr.;Sales Associate;Portsmouth;USA
+131;Biking Bums;Bobby Bigglesworth;Mr.;Sales Representative;Taos;USA
+132;7 Bikes For 7 Brothers;Brent Cogswell;Mr.;Sales Manager;Las Vegas;USA
+133;Against The Wind Bikes;Zak Davis;Mr.;Sales Manager;Rome;USA
+134;Hangin' Two;Jack Trueman;Mr.;Owner;Tulsa;USA
+135;Going in Circles;Kent Estes;Mr.;Sales Manager;Columbia;USA
+136;Off Road Bikes;Swoozie Fantermyer;Ms.;Owner;Pierre;USA
+137;Cyclists for Life;Brenda Trent;Ms.;Owner;Memphis;USA
+138;Discount Bikes;Andrea Dixon;Ms.;Sales Manager;Salt Lake City;USA
+139;Canadian Bikes, Eh;Bob Tuque;Mr.;Owner;Richmond;USA
+140;Bob's Bikes;Bob Zarcalister;Mr.;Owner;Montpelier;USA
+141;Mike's Bikes;Michael Cartman;Mr.;Sales Representative;Seattle;USA
+142;Two Wheelin';Jann Dolap;Ms.;Owner;Charleston;USA
+143;Down Under Bikes;Dave Flynn;Mr.;Sales Representative;Sydney;Australia
+144;Canberra Bikes;Craig Stobbs;Mr.;Owner;Canberra;Australia
+145;Kangeroo Trikes;Sandra Anderson;Mrs.;Sales Representative;Melbourne;Australia
+146;Bruce's Bikes;Bruce Hyde;Mr.;Owner;Churchill;Australia
+147;Peddles of Perth;Vanessa Jacobsen;Ms.;Sales Manager;Perth;Australia
+148;Koala Road Bikes;Nathan Wu;Mr.;Sales Manager;Brisbane;Australia
+149;Tasmanian Devil Bikes;Todd Llyod;Mr.;Sales Representative;Hobart;Australia
+150;Bicicletas San Santiago;Ricardo Fernandes;Mr.;Sales Associate;Santiago;Chile
+151;Paradise Sports;Johnny Horton;Mr.;Owner;Road Town;British Virgin Islands
+152;Brasilia Bikes Inc.;Felipe Silva;Mr.;Owner;Brasilia;Brazil
+153;Bicicletas de Montaña La Paz;Juan Gomez;Mr.;Owner;La Paz;Bolivia
+154;Royal Cycle;Henryk Featherstone;Mr.;Owner;Hamilton;Bermuda
+155;Dhaka Bike Store;Junaid Panikkar;Mr.;Owner;Dhaka;Bangladesh
+156;Beach Cycle and Sport;Warren Donovan;Mr.;Owner;Nassau;Bahamas
+157;Aruba Sport;Jerry Cashwell;Mr.;Owner;Oranjestad;Aruba
+158;Bicicletas Buenos Aires;Carlos Martinez;Mr.;Owner;Buenos Aires;Argentina
+159;Barbados Sports, Ltd.;Luke Jones;Mr.;Sales Manager;Bridgetown;Barbados
+160;Pedales de Bogota;Fernando Valdez;Mr.;Sales Manager;Bogota;Colombia
+161;Galaxy Outdoors;Jimmy Ng;Mr.;Owner;Hong Kong SAR;China
+162;East Budapest Sports;Marianna Chose;Mr.;Sales Representative;Budapest;Hungary
+163;India Cycle and Co.;Paja Al Majid;Mr.;Owner;New Delhi;India
+164;Jakarta Sunrise Sports;Wu Padang;Mr.;Owner;Jakarta;Indonesia
+165;Hillcrest Cycle;Lenny Kenwood;Mr.;Owner;Dublin;Ireland
+166;Island Bikes;Jerry Andover;Mr.;Owner;Kingston;Jamaica
+167;Nishimoto Sports;Hiro Nishimoto;Mr.;Owner;Tokyo;Japan
+168;Nairobi Sports Center;Ren Janmohammed;Ms.;Owner;Nairobi;Kenya
+169;Cairo Bicycles, Inc.;Elan Abbibi;Mr.;Owner;Cairo;Egypt
+170;Ruedas de Santo Domingo;Antonio Santos;Mr.;Owner;Santo Domingo;Dominican Republic
+171;Bicicletas San Jose;Julio Morenzo;Mr.;Owner;San José;Costa Rica
+172;Prague Sports;Eric Kenelek;Mr.;Sales Manager;Prague;Czech Republic
+173;Copenhagen Sports and Cycle;Sven Van Bauer;Mr.;Sales Representative;Copenhagen;Denmark
+174;Superbicicletas Ecuador Ltd.;Ricardo Martinez;Mr.;Owner;Quito;Ecuador
+175;Athens Bicycle Co.;Andres Arnadis;Mr.;Sales Representative;Athens;Greece
+176;Tel Aviv Outdoors;David Azur;Mr.;Owner;Tel Aviv;Israel
+177;En ruedas Panama;Fernando Perez;Mr.;Sales Agent;Panama;Panama
+178;Islamabad Bike Stores;Sanji Jamal;Ms.;Sales Manager;Islamabad;Pakistan
+179;Manila Bicycle Store;Maria Hernandez;Ms.;Owner;Manila;Philippines
+180;Deportes Perez;Paolo Perez;Mr.;Owner;Managua;Nicaragua
+181;Sports Fever;Duke Manson;Mr.;Sales Manager;Wellington;New Zealand
+182;Kathmandu Sports;Ngan Xu;Mr.;Owner;Kathmandu;Nepal
+183;Lima Norte Deportes;Ricardo Montabella;Mr.;Owner;Lima;Peru
+184;Eurocycle;Pierre Van Kroger;Mr.;Sales Agent;Luxembourg;Luxembourg
+185;Kuala Lumpur Central Cycle;Rennie Chung;Mr.;Owner;Kuala Lumpur;Malaysia
+186;Ulaanbaatar Cycle;Po-Yan Ying;Mr.;Owner;Ulaanbaatar;Mongolia
+187;Deportes Mexico City;Julio Estes;Mr.;Sales Manager;Ciudad de Mexico;Mexico
+188;Forever Young Sports;Cam Jackson;Mr.;Owner;Castries;Saint Lucia
+189;Equator Cycle;Chuck Van Morrison;Mr.;Owner;Pretoria;South Africa
+190;Ankara Bicycle Company;Fatih Cekirge;Mr.;Sales Manager;Ankara;Turkey
+191;Moscow Bike Company;Alex Federov;Mr.;Sales Agent;Moscow;Russia
+192;Sanstone Cycle;Young Lee;Mr.;Sales Manager;Singapore;Singapore
+193;Budapest Sports;Dario Ionascu;Mr.;Owner;Bucharest;Romania
+194;Save-on-Cycles;Julianne Derby;Ms.;Owner;Riyadh;Saudi Arabia
+195;Bangkok Sports;Lee Chang;Mr.;Owner;Bangkok;Thailand
+196;Hanoi Bike Company;Twan Ha;Mr.;Owner;Hanoi;Vietnam
+197;Tienda de Repuestos Caracas;Maria Santos;Mrs.;Owner;Caracas;Venezuela
+198;UAE Cycle;Vivek Parmar;Mr.;Sales Representative;Abu Dhabi;United Arab Emirates
+199;Harare Cycle;Dwight Mallel;Mr.;Owner;Harare;Zimbabwe
+200;Time-lines.nl;NULL;NULL;NULL;NULL;NULL
+201;Kiev-North Sports;Leon Demidov;Mr.;Sales Representative;Kiev;Ukraine
+202;Sunrise Cycle;Josephine McGillan;Mrs.;Sales Representative;Ashford;England
+203;Source One Cycle;Tina Waldorf;Ms.;Sales Agent;Bournemouth;England
+204;Wheel to Wheel;Brent Butterfield;Mr.;Sales Representative;Southampton;England
+205;McDonald Klein Sports;Trent McDonald;Mr.;Owner;Bristol;England
+206;Tom's Bikes;Thomas Dadwood;Mr.;Sales Representative;Nottingham;England
+207;Hit the Dirt;Samantha Raintree;Ms.;Owner;Cambridge;England
+208;LifeCycle;Derek Young;Mr.;Owner;Leeds;England
+209;Westerly Sports;Shelly Cornwall;Miss;Owner;Birmingham;England
+210;Donview Bike Co.;Russ Clemmens;Mr.;Sales Agent;Sunderland;England
+211;Platinum Sports;Timothy Gilligan;Mr.;Sales Agent;Edinburgh;Scotland
+212;Dublin Cycle Centre;Shane O'Tool;Mr.;Owner;Dublin;Ireland
+213;Top 'o' the World Cycle;Mike O'Sullivan;Mr.;Owner;Belfast;Northern Ireland
+214;Bicycle Basics;Drew Broadwin;Mr.;Sales Manager;Cardiff;Wales
+215;Great Outdoors;Jackie Ball;Ms.;Owner;Manchester;England
+216;Exeter Cycle Source;Sid Moore;Mr.;Owner;Exeter;England
+217;Picadilly Cycle;Julian Windsor;Mr.;Owner;London;England
+218;Life Cycle Centre;Rod Filmore;Mr.;Owner;Maidenhead;England
+219;Cycle Fever;Jake Cosgrove;Mr.;Sales Representative;Toronto;Canada
+220;Wheels 'n' Deals;Sylvia Canton;Ms.;Sales Manager;Beaconsfield;Canada
+221;Halifax Cycle Centre;Grant Targell;Mr.;Sales Manager;Halifax;Canada
+222;Dag City Cycle;Dag Jozwell;Mr.;Sales Representative;Winnipeg;Canada
+223;Don't Tread On Me;Don Julian;Mr.;Owner;Ottawa;Canada
+224;Min Dong Toy Store;Fang Zhou;Mrs.;Sales Manager;Shanghai;China
+225;JinJing Sports;Fan Zhang;Mr.;Owner;Tianjin;China
+226;Yue Xiu Bicycles;XinQiang Wang;Mr.;Owner;Guangzhou;China
+227;Hao Nannu Outdoors;Dong Sheng Yu;Mr.;Owner;Chengdu;China
+228;Globe Bike;David Chan;Mr.;Sales Manager;Hong Kong SAR;China
+229;Newpeople Biking Ltd.;Edward Yan;Mr.;Owner;Hong Kong SAR;China
+230;C&C Sports People;Mark Wang;Mr.;Owner;Hong Kong SAR;China
+231;AIC Childrens;Ng Chun Yuen;Mr.;Owner;Hong Kong SAR;China
+232;Fast Mover Pte Ltd;Tan Boon Cheng;Mr.;Owner;Singapore;Singapore
+233;United Bikers;Mary Lim;Mrs.;Owner;Singapore;Singapore
+234;JR Biking Limited;Lee Kah Seng;Mr.;Owner;Singapore;Singapore
+235;Heuristic Beach Pte Ltd;Abdul Rahman Bin Fandi;Mr.;Owner;Singapore;Singapore
+236;Ministry of Sports;Ben Govindansamy;Mr.;Sales Manager;Singapore;Singapore
+237;Salvado Bike Store;Adriano Pinto;Mr.;Sales Manager;Rio Grande;Brazil
+238;Brasilia Outdoors;Americo Machado;Mr.;Sales Agent;Minas Gerais;Brazil
+239;Rio De Janeiro Bikers;André Pedro;Mr.;Owner;Rio de Janeiro;Brazil
+240;Saveiros SA;André da Silva;Mr.;Owner;São Paulo;Brazil
+241;Outdoors Ltda;André Fontes;Mr.;Owner;São Paulo;Brazil
+242;Hamburg Räder;Arne Schmeth;Mr.;Sales Representative;Essen;Germany
+243;Leipzig Freiheit;Folkert Heinz;Mr.;Owner;Berlin;Germany
+244;Super Bike;Frank Kroger;Mr.;Sales Representative;Hamburg;Germany
+245;Berlin Biking GmBH.;Gunter Schatz;Mr.;Owner;München;Germany
+246;Dortmont Rad Kaufhaus;Holger Warnecke;Mr.;Sales Representative;Düsseldorf;Germany
+247;Offroad Bike Verleih;Juergen Rudolf;Mr.;Owner;Berlin;Germany
+248;Berg auf Trails GmBH.;Peter Schmit;Mr.;Sales Manager;Düsseldorf;Germany
+249;Milano Bike Store;Angelo Nucchi;Mr.;Sales Agent;Milan;Italy
+250;Brescia Mountainers;David Giovanni;Mr.;Sales Manager;Rome;Italy
+251;Nogoya Paths;Hatsuko Kumasaka;Mr.;Sales Agent;Hiroshima;Japan
+252;Yokohama Biking Fans;Miyako Katayama;Mr.;Owner;Kobe;Japan
+253;Bendai Mountain Bikers;Tomoaki Tanahashi;Mr.;Sales Manager;Tokyo;Japan
+254;Totory Ken Cyclists;Yoshio Shimoyama;Mr.;Owner;Yokohama;Japan
+255;Tiempo Libre Monterrey;Jose Garcia;Mr.;Sales Manager;Acapulco;Mexico
+256;Tiempo Libre Acapulco;Manuel Hernandez;Mr.;Sales Manager;Puerto Vallarta;Mexico
+257;Bicicletas  de Montaña Cancun;Ana Maria Fernandez;Ms.;Owner;Cancun;Mexico
+258;Guadalajara en ruedas;Laura Torres;Ms.;Sales Manager;Mazatlan;Mexico
+259;Bicycles Alex;Alex Alvarez;Ms.;Owner;Ciudad de Mexico;Mexico
+260;New Trails;George Robins;Mr.;Sales Manager;Christchurch;New Zealand
+261;Beach Trails and Wheels;Alastair Jackson;Mr.;Sales Representative;Hamilton;New Zealand
+262;Forested Hills;Gary Birch;Mr.;Sales Agent;Wellington;New Zealand
+263;Bill's Bikes;Bill Anderson;Mr.;Owner;New Plymouth;New Zealand
+264;Lisbon Cyclists;Jorge Faustino;Mr.;Owner;Lisbon;Portugal
+265;Evora Family Sports;André Palacio;Mr.;Sales Manager;Lisbon;Portugal
+266;Souzel Bike Rentals;Adriano Malva;Mr.;Sales Agent;Lisbon;Portugal
+267;Tom's Place for Bikes;Jimmy Hatch;Mr.;Sales Representative;Johannesburg;South Africa
+268;Coastal Line Bikes;Caron Ryans;Ms.;Owner;Johannesburg;South Africa
+269;Hikers and Bikers;Steven Sharp;Mr.;Owner;Johannesburg;South Africa
+270;Mountain View Sport;Fran Durant;Mr.;Sales Manager;Auckland;New Zealand
